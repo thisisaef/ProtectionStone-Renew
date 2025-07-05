@@ -18,9 +18,9 @@ Check the [wiki](https://github.com/espidev/ProtectionStones/wiki) for plugin re
 
 ### Dependencies
 * ProtectionStones 2.10.5
-  * Spigot 1.20.6+
-  * WorldGuard 7.0.9+
-  * WorldEdit 7.2.6+
+  * Paper 1.21.7+
+  * WorldGuard 7.0.14+
+  * WorldEdit 7.3.14+
   * Vault (Optional)
   * PlaceholderAPI (Optional)
   * LuckPerms (Optional)
@@ -29,8 +29,8 @@ Check the [wiki](https://github.com/espidev/ProtectionStones/wiki) for plugin re
 Make sure you have the Java 21 JDK installed, as well as Maven.
 
 ```
-git clone https://github.com/espidev/ProtectionStones.git
-cd ProtectionStones
+git clone https://github.com/thisisaef/ProtectionStone-Renew.git
+cd ProtectionStone-Renew
 mvn clean install
 ```
 
